@@ -2,6 +2,10 @@
   "name": "sphero-leapmotion",
   "version": "0.1.0",
   "description": "Sphero + Leap Motion",
+  "repository": {
+    "type" : "git",
+    "url" : "git@github.com:miya0001/sphero-leapmotion.git"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
