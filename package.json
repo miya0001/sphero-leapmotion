@@ -1,0 +1,16 @@
+{
+  "name": "sphero-leapmotion",
+  "version": "0.1.0",
+  "description": "Sphero + Leap Motion",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "miya0001",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "leapjs": "~0.2.0",
+    "spheron": "*"
+  }
+}
