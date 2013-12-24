@@ -23,4 +23,3 @@ $ npm start
 * [leapjs](https://github.com/leapmotion/leapjs)
 * [node-serialport](https://github.com/voodootikigod/node-serialport)
 
-## Licence
