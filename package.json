@@ -12,7 +12,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "miya0001",
-  "license": "BSD-2-Clause",
+  "license": "BSD-2-clause",
   "dependencies": {
     "leapjs": "~0.2.0",
     "spheron": "*"
